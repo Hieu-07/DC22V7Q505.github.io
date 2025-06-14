@@ -22,5 +22,13 @@
     "globals": "^16.2.0",
     "prettier": "^3.5.3",
     "typescript-eslint": "^8.34.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hieu-07/DC22V7Q505.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hieu-07/DC22V7Q505.github.io/issues"
+  },
+  "homepage": "https://github.com/Hieu-07/DC22V7Q505.github.io#readme"
 }
